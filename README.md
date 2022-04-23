@@ -101,11 +101,10 @@ To interact with your deployed smart contract, complete the following steps:
 
 ### Submission
 
-* Upload the files for this assignment to your GitHub repository.
+[Solidity File](https://github.com/mikecordes/Unit20-Homework/blob/main/Unit20-Homework.sol)
 
-* Submit the link to your GitHub repo on Bootcamp Spot.
+[Execution Results Screen Shots](https://github.com/mikecordes/Unit20-Homework/tree/main/Execution_Results)
 
 ---
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
